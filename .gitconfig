@@ -1,0 +1,10 @@
+# ~/.gitconfig
+ 
+[includeIf "gitdir:~/Repos_personal/"] # include for all .git projects under personnal/ 
+path = ~/Repos_personal/.gitconfig-personal
+ 
+[includeIf "gitdir:~/Repos/"]
+path = ~/Repos/.gitconfig-work
+ 
+[core]
+excludesfile = ~/.gitignore      # valid everywhere

@@ -1,0 +1,35 @@
+[sso-session AJB_sign_in]
+sso_start_url = https://ajb5779.awsapps.com/start/#
+sso_region = eu-west-2
+sso_registration_scopes = sso:account:access
+cli_auto_prompt = on
+
+[profile AJB_management]
+sso_session = AJB_sign_in
+sso_account_id = 351917354219
+sso_role_name = AdministratorAccess
+
+[profile AJB_infra]
+sso_session = AJB_sign_in
+sso_account_id = 593793021150
+sso_role_name = AdministratorAccess
+
+[profile AJB_artifacts]
+sso_session = AJB_sign_in
+sso_account_id = 699475929088
+sso_role_name = AdministratorAccess
+
+[profile AJB_development]
+sso_session = AJB_sign_in
+sso_account_id = 536697237976
+sso_role_name = AdministratorAccess
+
+[profile AJB_production]
+sso_session = AJB_sign_in
+sso_account_id = 390402559068
+sso_role_name = AdministratorAccess
+
+[profile AJB_workloads]
+sso_session = AJB_sign_in
+sso_account_id = 406761371749
+sso_role_name = AdministratorAccess

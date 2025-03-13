@@ -1,0 +1,12 @@
+Management
+https://ajb5779.awsapps.com/start/#/console?account_id=351917354219&role_name=AdministratorAccess
+Artifacts
+https://ajb5779.awsapps.com/start/#/console?account_id=699475929088&role_name=AdministratorAccess
+Development
+https://ajb5779.awsapps.com/start/#/console?account_id=536697237976&role_name=AdministratorAccess
+Infrastructure
+https://ajb5779.awsapps.com/start/#/console?account_id=593793021150&role_name=AdministratorAccess
+Production
+https://ajb5779.awsapps.com/start/#/console?account_id=390402559068&role_name=AdministratorAccess
+Workload
+https://ajb5779.awsapps.com/start/#/console?account_id=406761371749&role_name=AdministratorAccess

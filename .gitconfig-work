@@ -1,0 +1,8 @@
+[user]
+	name = aboyd
+	email = aboyd@highroads.com
+[init]
+	defaultBranch = main
+
+[core]
+sshCommand = "ssh -i /Users/aboyd/.ec2/bitbucket_work"

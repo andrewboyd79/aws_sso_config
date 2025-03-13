@@ -1,0 +1,11 @@
+# ~/personal/.gitconfig.pers
+ 
+[user]
+email = andrewboyd79@googlemail.com
+name = Andrew Boyd
+ 
+[github]
+user = "andrewboyd79"
+ 
+[core]
+sshCommand = "ssh -i /Users/aboyd/.ec2/github_personal"
